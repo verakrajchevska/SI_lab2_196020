@@ -1,4 +1,5 @@
 # SI_lab2_196020
+![CFG](https://user-images.githubusercontent.com/81881991/120245734-7597b600-c26e-11eb-8e9b-f74218c735c4.png)
 
 
 3. Цикломатската комплексност на кодот според Control Flow Graph е 8. Таа се добива со: 
